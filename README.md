@@ -1,6 +1,6 @@
 # DBMS
 <hr></hr>
-A simple database management system for the Killburnazon database. Use it to create and query a mock relational database.
+A simple database management system for the Killburnazon database. Use it to create and query a mock relational database. Or, as a template for your own project!
 
 ## Dependencies
 * Apache Web Server - I used XAMPP
