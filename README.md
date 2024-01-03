@@ -2,6 +2,11 @@
 <hr></hr>
 A simple database management system for the Killburnazon database. Use it to create and query a mock relational database. Or, as a template for your own project!
 
+### Preview
+<p align="left">
+  <img src="example.png" width="700" alt="Set Preview with Default Settings">
+</p>
+
 ## Dependencies
 * Apache Web Server - I used XAMPP
 * MySQL Database Server
